@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
 
 
 COMMON_LUNCH_CHOICES := \
-yaap_garnet-user
-yaap_garnet-userdebug
-yaap_garnet-eng
+yaap_garnet-user \
+yaap_garnet-userdebug \
+yaap_garnet-eng \
